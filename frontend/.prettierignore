@@ -1,0 +1,11 @@
+dist
+node_modules
+.next
+build
+.husky
+.next
+package-lock.json
+.idea
+.mvn
+.settings
+target
